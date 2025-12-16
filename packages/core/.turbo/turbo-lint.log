@@ -1,0 +1,5 @@
+
+
+> @my/ui@0.0.0 lint /home/drenz/Projects/Design/my-monorepo/packages/ui
+> eslint .
+

@@ -1,0 +1,5 @@
+
+
+> main-site@0.1.0 type-check /home/drenz/Projects/Design/my-monorepo/apps/main-site
+> tsc --noEmit
+

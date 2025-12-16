@@ -1,0 +1,22 @@
+{
+  // Use workspace version of TypeScript (recommended for monorepos)
+  "typescript.tsdk": "node_modules/typescript/lib",
+  // (Optional) Enable automatic type acquisition for JavaScript projects
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  // Editor preferences (customize as needed)
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange",
+  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint", // Or your favorite formatter
+  // VS Code WSL remote extension settings (if using WSL)
+  "remote.WSL.fileWatcher.polling": true,
+  // Exclude common folders from search
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true,
+    "**/.git": true
+  },
+  // If you're using Prettier or ESLint, you can add their config here too
+  // "prettier.requireConfig": true,
+  // Add any other settings you want below...
+}

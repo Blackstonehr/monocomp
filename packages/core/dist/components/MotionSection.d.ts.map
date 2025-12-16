@@ -1,0 +1,1 @@
+{"version":3,"file":"MotionSection.d.ts","sourceRoot":"","sources":["../../components/MotionSection.tsx"],"names":[],"mappings":"AAGA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,KAAK,kBAAkB,GAAG;IACxB,QAAQ,EAAE,KAAK,CAAC,SAAS,CAAC;IAC1B,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB,CAAC;AAEF,eAAO,MAAM,aAAa,GAAI,yBAA8B,kBAAkB,4CAU7E,CAAC"}

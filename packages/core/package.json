@@ -1,0 +1,21 @@
+{
+  "name": "@blackstone/core",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit",
+    "build": "tsup src/index.ts --format esm,cjs --dts --external react"
+  },
+  "peerDependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "tsup": "^8.2.3"
+  }
+}
