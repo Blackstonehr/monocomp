@@ -1,0 +1,11 @@
+
+
+> main-site@0.1.0 lint /home/drenz/Projects/Design/my-monorepo/apps/main-site
+> eslint
+
+[0m[0m
+[0m[4m/home/drenz/Projects/Design/my-monorepo/apps/main-site/app/langu-bridge-homepage.tsx[24m[0m
+[0m  [2m24:19[22m  [33mwarning[39m  'Button' is defined but never used  [2m@typescript-eslint/no-unused-vars[22m[0m
+[0m[0m
+[0m[33m[1m✖ 1 problem (0 errors, 1 warning)[22m[39m[0m
+[0m[33m[1m[22m[39m[0m
